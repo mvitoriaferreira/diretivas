@@ -28,9 +28,12 @@
               "src/assets"
             ],
             "styles": [
+              "../diretivas/node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "../diretivas/node_modules/bootstrap/dist/js/bootstrap.js"
+            ]
           },
           "configurations": {
             "production": {
